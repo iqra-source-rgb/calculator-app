@@ -23,12 +23,6 @@ MIT License
    
 ---
 
-### **Step 8: Push the README to GitHub**
-1. After adding the README, use the following commands to commit and push:
-   ```bash
-   git add README.md
-   git commit -m "Add README with project documentation"
-   git push
 
 
 
